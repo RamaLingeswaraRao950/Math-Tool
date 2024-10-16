@@ -1,8 +1,8 @@
 ### Math Tool
-A powerful math tool designed to perform basic arithmetic operations. It contains a user-friendly interface, a theme switcher, and responsive design, making it suitable for various devices.
+A powerful math tool designed to perform arithmetic operations. It contains a user-friendly interface, a theme switcher, and responsive design, making it suitable for various devices.
 
  ### Features :
-- Basic arithmetic operations
+- Important arithmetic operations
 - Clear and delete functionalities
 - Theme switcher with three different themes
 - Responsive design suitable for mobile and desktop devices
@@ -14,13 +14,6 @@ A powerful math tool designed to perform basic arithmetic operations. It contain
 - Click RESET to clear the input.
 - Press = to get the result.
 - Use the theme slider to switch between different themes.
-
-### Technologies Used :
-- HTML5
-- CSS3
-
-### Live Demo :
-https://math-tool-mjcs.vercel.app/
 
 ### Installation :
 To run this project locally, follow these steps:
