@@ -1,13 +1,13 @@
 ### Math Tool
-A powerful web-based math tool designed to perform basic arithmetic operations. It contains a user-friendly interface, a theme switcher, and responsive design, making it suitable for various devices.
+A powerful math tool designed to perform basic arithmetic operations. It contains a user-friendly interface, a theme switcher, and responsive design, making it suitable for various devices.
 
- ### Features :-
+ ### Features :
 - Basic arithmetic operations
 - Clear and delete functionalities
 - Theme switcher with three different themes
 - Responsive design suitable for mobile and desktop devices
 
-### Usage :-
+### Usage :
 - Click the number buttons to input values.
 - Use the operation buttons (+, -, x, /) to perform calculations.
 - Press DEL to remove the last digit.
@@ -15,17 +15,17 @@ A powerful web-based math tool designed to perform basic arithmetic operations. 
 - Press = to get the result.
 - Use the theme slider to switch between different themes.
 
-### Technologies Used :-
+### Technologies Used :
 - HTML5
 - CSS3
 
-### Live Demo :- https://math-tool-mjcs.vercel.app/
+### Live Demo :
+https://math-tool-mjcs.vercel.app/
 
-### Installation :-
+### Installation :
 To run this project locally, follow these steps:
-
-1. Clone the repository :-
+1. Clone the repository :
    https://github.com/RamaLingeswaraRao950/Math-Tool.git
-2. Navigate to the project directory :-
+2. Navigate to the project directory :
    cd Math-Tool
 3. Open the index.html file in your web browser.
